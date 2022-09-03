@@ -1,0 +1,1 @@
+Bu projede intermediate Css başlıklı bölümden  display,static-relative pozisyonları, div box-model stilleri, html elementlerini merkeze koyma konuları sonrası oluşturulmuş basit bir site bulunmaktadır. 
